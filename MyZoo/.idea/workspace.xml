@@ -26,8 +26,23 @@
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Codekamp/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21922246">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.27969763">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Educated.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Codekamp/Educated.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -37,10 +52,14 @@
         <entry file="file://$PROJECT_DIR$/src/Codekamp/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
               <folding>
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,12 +69,12 @@
         <entry file="file://$PROJECT_DIR$/src/Codekamp/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="20" />
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
                 <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,10 +84,12 @@
         <entry file="file://$PROJECT_DIR$/src/Codekamp/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,7 +101,10 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="235" column="26" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="26" />
               <folding>
-                <element signature="e#0#25910#0" expanded="true" />
+                <element signature="e#5860#5861#0" expanded="false" />
+                <element signature="e#5896#5897#0" expanded="false" />
+                <element signature="e#10180#10181#0" expanded="false" />
+                <element signature="e#10263#10264#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -90,10 +114,12 @@
         <entry file="file://$PROJECT_DIR$/src/Codekamp/Elephant.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="20" />
               <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,6 +131,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -116,11 +143,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Codekamp/Animal.java" />
-        <option value="$PROJECT_DIR$/src/Codekamp/Dog.java" />
-        <option value="$PROJECT_DIR$/src/Codekamp/Elephant.java" />
         <option value="$PROJECT_DIR$/src/Codekamp/Cat.java" />
+        <option value="$PROJECT_DIR$/src/Codekamp/Elephant.java" />
+        <option value="$PROJECT_DIR$/src/Codekamp/Dog.java" />
+        <option value="$PROJECT_DIR$/src/Codekamp/Educated.java" />
         <option value="$PROJECT_DIR$/src/Codekamp/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Codekamp/Animal.java" />
       </list>
     </option>
   </component>
@@ -165,6 +193,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,9 +234,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,6 +241,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RunManager" selected="Application.Demo">
     <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -470,6 +502,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -495,33 +533,34 @@
       <option name="number" value="Default" />
       <updated>1471003777512</updated>
       <workItem from="1471003781343" duration="3798000" />
+      <workItem from="1471260500544" duration="5886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3798000" />
+    <option name="totallyTimeSpent" value="9684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1024" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -543,47 +582,15 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Codekamp/Elephant.java">
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="235" column="26" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#25910#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codekamp/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codekamp/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -593,17 +600,153 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="235" column="26" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="26" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+            <element signature="e#10180#10181#0" expanded="false" />
+            <element signature="e#10263#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Elephant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="235" column="26" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="26" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+            <element signature="e#10180#10181#0" expanded="false" />
+            <element signature="e#10263#10264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Elephant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Educated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codekamp/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Codekamp/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21922246">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
+        <state vertical-scroll-proportion="0.27969763">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

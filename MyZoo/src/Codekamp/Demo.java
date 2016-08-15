@@ -5,40 +5,37 @@ import java.util.Random;
 /**
  * Created by cerebro on 12/08/16.
  */
-public class Demo {
+public class Demo implements Educated {
+
+    public static Animal someAnimal;
+
     public static void main(String[] args) {
 
 
-        Cat myCat = new Cat();
-        myCat.name = "Hilary";
+
+        Dog dog1 = new Dog();
+
+        Demo.someAnimal = dog1;
+
+        Demo.interview(dog1);
 
 
-        myCat.speak();
-        myCat.walk();
 
-        Dog myDog = new Dog();
-        myDog.name = "Donald";
+    }
 
-        myDog.speak();
-        myDog.walk();
-        myDog.chaseTail();
+    public static boolean interview(Educated candidate) {
 
-        Animal animal1;
+        candidate.write();
+        Demo.someAnimal.write();
 
-        Random random = new Random();
-        int i = random.nextInt(3);
+        return false;
+    }
 
+    public void read() {
+        System.out.println("demo read");
+    }
 
-        if(i == 0) {
-            animal1 = new Dog();
-        } else if (i == 1) {
-            animal1 = new Cat();
-        } else {
-            animal1 = new Elephant();
-        }
-
-        animal1.name = "Mahisasur";
-
-        animal1.walk();
+    public void write() {
+        System.out.println("demo write");
     }
 }

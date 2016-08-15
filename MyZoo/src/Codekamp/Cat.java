@@ -10,6 +10,10 @@ public class Cat extends Animal {
     }
 
     public void walk() {
-        System.out.println("second walk function");
+        System.out.println("cat cat");
+    }
+
+    public void talk() {
+        System.out.println("talking cat");
     }
 }
