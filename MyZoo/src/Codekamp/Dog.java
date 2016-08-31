@@ -22,4 +22,12 @@ public class Dog extends Animal {
     public void talk() {
         System.out.println("talking dog");
     }
+
+    public void talk(String language, int a) {
+        System.out.println(language + " speaking dog");
+    }
+
+    public void talk(int a, String speed) {
+        System.out.println("taking really " + speed);
+    }
 }
