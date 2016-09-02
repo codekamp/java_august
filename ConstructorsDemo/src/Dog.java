@@ -4,8 +4,13 @@
 public class Dog extends Animal {
     public String name;
 
+    public void talk() {
+        System.out.println("talking dog");
+        this.introduce();
+    }
+
     public void introduce() {
-        System.out.println("Wuff " + name);
+        System.out.println("Wuff " + this.name);
     }
 
     // 1. same name as class name.
@@ -21,14 +26,11 @@ public class Dog extends Animal {
     //      or indirectly
 
     public Dog() {
-        this("Donald"); //
-        this.introduce(); //
-        System.out.println("parameterless constructor");
-        this.name = "Donald";
+        this("Donald");
     }
 
     public Dog(String name) {
-        super();
+        super("hello");
         System.out.println("paramter vala constructor");
         this.name = name;
     }
