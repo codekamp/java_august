@@ -10,6 +10,9 @@ import java.io.IOException;
  * Created by cerebro on 09/09/16.
  */
 public class Resources {
+
+    private Resources() {}
+
     public static Image grassImage;
     public static Image blockImage;
     public static Image playerImage;

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TheRightWay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TheRightWay_jar</output-path>
+    <root id="archive" name="TheRightWay.jar">
+      <element id="module-output" name="TheRightWay" />
+    </root>
+  </artifact>
+</component>

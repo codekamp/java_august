@@ -16,8 +16,8 @@ public class GamePanel extends JPanel implements KeyListener, Runnable {
 
     public static State currentState;
 
-    private static final int GAME_WIDTH = 800;
-    private static final int GAME_HEIGHT = 450;
+    public static final int GAME_WIDTH = 800;
+    public static final int GAME_HEIGHT = 450;
 
     public GamePanel() {
         super();
@@ -79,7 +79,6 @@ public class GamePanel extends JPanel implements KeyListener, Runnable {
             imageGraphics.dispose();
 
             panelGraphics = this.getGraphics();
-            panelGraphics.clearRect(0,0,GAME_WIDTH,GAME_HEIGHT);
             panelGraphics.drawImage(mainImage, 0, 0, null);
             panelGraphics.dispose();
         }

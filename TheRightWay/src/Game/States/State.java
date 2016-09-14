@@ -12,4 +12,5 @@ abstract public class State {
     public abstract void update();
     public abstract void render(Graphics g);
     public abstract void keyPressed(int keyCode);
+//    public abstract void mousePressed(int x, int y);
 }
