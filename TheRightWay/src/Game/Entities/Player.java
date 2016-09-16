@@ -10,6 +10,18 @@ import java.awt.*;
  */
 public class Player extends Entity {
 
+    private static Image[] images = {
+            Resources.player1Image,
+            Resources.player2Image,
+            Resources.player3Image,
+            Resources.player4Image,
+            Resources.player5Image,
+            Resources.player4Image,
+            Resources.player3Image,
+            Resources.player2Image};
+
+    private int imageIndex;
+
     private static final int GROUND_Y_CORD = 315;
 
     public Player() {
@@ -18,12 +30,18 @@ public class Player extends Entity {
 
     @Override
     public Image getImage() {
-        return Resources.playerImage;
+        if(this.y < GROUND_Y_CORD) {
+            return Resources.playerJumpImage;
+        }
+        return Player.images[this.imageIndex];
     }
 
     @Override
     public void update() {
         super.update();
+
+        this.imageIndex++;
+        this.imageIndex = this.imageIndex % 8;
 
         if(this.y >= GROUND_Y_CORD) {
             this.y = GROUND_Y_CORD;
@@ -49,7 +67,7 @@ public class Player extends Entity {
     public void jump() {
         if(this.y == GROUND_Y_CORD) {
             this.yVel = -20;
-            this.yAcc = 1;
+            this.yAcc = 2;
         }
     }
 }

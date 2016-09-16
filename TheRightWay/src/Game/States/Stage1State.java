@@ -19,7 +19,8 @@ public class Stage1State extends State {
 
     List<Block> blocks;
     List<Entity> entities;
-    Player player;
+    Player player1;
+    Player player2;
 
     public Stage1State() {
         this.entities = new ArrayList<>();
@@ -30,11 +31,14 @@ public class Stage1State extends State {
         this.blocks.add(new Block(1250));
         this.blocks.add(new Block(1450));
         this.blocks.add(new Block(1650));
-        this.player = new Player();
+        this.player1 = new Player();
+        this.player2 = new Player();
+        this.player2.x = 600;
         this.score = 0;
 
         this.entities.addAll(this.blocks);
-        this.entities.add(this.player);
+        this.entities.add(this.player1);
+        this.entities.add(this.player2);
 
     }
 
@@ -48,10 +52,20 @@ public class Stage1State extends State {
         //checking player collision with blocks
         for (int i = 0; i < this.blocks.size(); i++) {
             Block block = this.blocks.get(i);
-            if (player.isColliding(block)) {
+            if (this.player1.isColliding(block)) {
                 block.isHidden = true;
                 Resources.hit.play();
-                player.x -= 10;
+                this.player1.x -= 10;
+            }
+        }
+
+        //checking player collision with blocks
+        for (int i = 0; i < this.blocks.size(); i++) {
+            Block block = this.blocks.get(i);
+            if (this.player2.isColliding(block)) {
+                block.isHidden = true;
+                Resources.hit.play();
+                this.player2.x -= 10;
             }
         }
 
@@ -77,7 +91,9 @@ public class Stage1State extends State {
     @Override
     public void keyPressed(int keyCode) {
         if(keyCode == KeyEvent.VK_SPACE) {
-            this.player.jump();
+            this.player1.jump();
+        } else if(keyCode == KeyEvent.VK_ENTER) {
+            this.player2.jump();
         }
     }
 }
